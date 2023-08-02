@@ -24,7 +24,7 @@ from pyrogram.errors import BotInlineDisabled
 
 msg=Config.msg
 REPLY_MESSAGE=Config.REPLY_MESSAGE
-
+"""
 @Client.on_message(filters.private & filters.incoming & ~filters.bot & ~filters.service & ~filters.me & ~filters.edited & ~filters.chat([777000, 454000]))
 async def nopm(client, message): 
     try:
@@ -44,4 +44,4 @@ async def nopm(client, message):
             await message.reply_text(f"{REPLY_MESSAGE}\n\n<b>© Powered By : \n@Devilxdy | @DeVilXdy 👑</b>")
     except Exception as e:
         print(e)
-        pass
+        pass"""
