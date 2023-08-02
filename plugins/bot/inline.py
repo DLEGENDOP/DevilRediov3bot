@@ -47,8 +47,8 @@ async def search(client, query):
         answers.append(
             InlineQueryResultPhoto(
                 title="Deploy Your Own Radio Player",
-                thumb_url="https://telegra.ph/file/4e839766d45935998e9c6.jpg",
-                photo_url="https://telegra.ph/file/4e839766d45935998e9c6.jpg",
+                thumb_url="https://graph.org/file/ac6b9ad447404863e32bd.jpg",
+                photo_url="https://graph.org/file/ac6b9ad447404863e32bd.jpg",
                 caption=f"{REPLY_MESSAGE}\n\n<b>© Powered By : \n@Devilxdy | @DeVilXdy 👑</b>",
                 reply_markup=InlineKeyboardMarkup(buttons)
                 )
