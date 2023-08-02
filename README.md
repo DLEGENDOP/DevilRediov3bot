@@ -1,4 +1,4 @@
-# Telegram 𝖣𝖾𝗏𝗂𝖫RadioV3 [![Mentioned in Awesome Telegram Calls](https://awesome.re/mentioned-badge-flat.svg)](https://github.com/tgcalls/awesome-tgcalls)
+# 🎻💫𝖣𝖾𝗏𝗂𝖫RadioV3 [![Mentioned in Awesome Telegram Calls](https://awesome.re/mentioned-badge-flat.svg)](https://github.com/tgcalls/awesome-tgcalls)
 ![GitHub Repo stars](https://img.shields.io/github/stars/AsmSafone/RadioPlayerV3?color=blue&style=flat)
 ![GitHub forks](https://img.shields.io/github/forks/AsmSafone/RadioPlayerV3?color=green&style=flat)
 ![GitHub issues](https://img.shields.io/github/issues/AsmSafone/RadioPlayerV3)
