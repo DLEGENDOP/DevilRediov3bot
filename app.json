@@ -1,7 +1,7 @@
 {
-  "name": "𝖣𝖾𝗏𝗂𝖫RadioV3",
+  "name": "Telegram Radio Player V3",
   "description": "An Telegram Bot By Safone to Play Nonstop Radio/Music/YouTube Live in Telegram Voice Chats",
-  "logo": "https://graph.org/file/ac6b9ad447404863e32bd.jpg",
+  "logo": "https://telegra.ph/file/a3755d9cb09f1361e3ac7.jpg",
   "stack": "container",
   "keywords": [
     "telegram",
@@ -56,7 +56,7 @@
     },
     "STREAM_URL": {
       "description": "URL of Radio Station or Youtube Live video url to stream with /radio command",
-      "value": "https://streaming.exclusive.radio/er/bollywood/icecast.audio",
+      "value": "https://youtu.be/5qap5aO4i9A",
       "required": false
     },
     "REPLY_MESSAGE": {
